@@ -4,7 +4,7 @@
   name="testDemo"
   id="myeclipse.1517904799275"
   context-root="/testDemo"
-  j2ee-spec="6.0"
+  j2ee-spec="5.0"
   archive="testDemo.war">
   <attributes>
     <attribute name="webrootdir" value="WebRoot" />
